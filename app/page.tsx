@@ -7,5 +7,5 @@ export default function Main() {
         <CanvasWrapper />
       </div>
     </main>
-  )
+  );
 }
